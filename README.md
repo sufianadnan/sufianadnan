@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sufianadnan.visitor-badge" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sufianadnan.visitor-badge)
 
 ![MasterHead](https://github.com/sufianadnan/sufianadnan/blob/main/banner.gif)
 <h1 align="center">Hi 👋, My Name is Sufian</h1>
