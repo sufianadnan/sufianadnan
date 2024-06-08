@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React, and studying for my CC Exam**
 
 - 📄 Learn more about me [https://sufianadnan.com/](https://sufianadnan.com/)
-- 
+
 - 📄 Find my Resume here [Resume](https://sufianadnan.com/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
