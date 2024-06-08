@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, My Name is Sufian</h1>
 <h3 align="center">Exploring the Cybersecurity Realm with a Code-Lover's Heart</h3>
 
-- 🌱 I’m currently learning **Zeek, JS, Machine Learning using scikit_learn**
+- 🌱 I’m currently learning **React, and studying for my CC Exam**
 
-- 📄 Know about my experiences [https://sufianadnan.github.io/Resume/](https://sufianadnan.github.io/Resume/)
+- 📄 Learn more about me [https://sufianadnan.com/](https://sufianadnan.com/)
+- 
+- 📄 Find my Resume here [Resume](https://sufianadnan.com/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
